@@ -1,7 +1,5 @@
 ## Hi there. I'm Gerogeykp...:wave:
-- :telescope: I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
-- :seedling: I’m currently learning backend development (Node.js | MongoDB | Django)
-- :speech_balloon: Ask me about anything that you want to learn
+
 
 ## :gear: Tools
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="sass" height="50"/> </a>
