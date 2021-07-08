@@ -28,11 +28,6 @@ DATA SIENCE
 - :telescope: I’m currently working on Data Visualization Tools (Matplotlib | Seaborn | Pandas's Own Visualization Features)
 - :seedling: I’m currently learning data visualization tools (Matplotlib | Seaborn)
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
-## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleyman-zeynul/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:zeynulsuleyman@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://zeynulsuleyman.medium.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynulsuleyman" alt="zeynulsuleyman" /> </p>
 ## :computer: Data Visualization
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
@@ -59,6 +54,6 @@ DATA SIENCE
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=zeynulsuleyman&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynulsuleyman&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynulsuleyman&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=gerogeykp&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gerogeykp&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerogeykp&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
